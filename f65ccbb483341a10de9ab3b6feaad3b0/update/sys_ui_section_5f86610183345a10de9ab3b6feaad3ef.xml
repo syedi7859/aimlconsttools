@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5f86610183345a10de9ab3b6feaad3ef" sys_domain="global" table="x_1441475_aiml_con_ai_devices" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>3099258583345a10de9ab3b6feaad3f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7c99258583345a10de9ab3b6feaad3f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7499258583345a10de9ab3b6feaad3f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7c99258583345a10de9ab3b6feaad3f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7499258583345a10de9ab3b6feaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7c99258583345a10de9ab3b6feaad3fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>7499258583345a10de9ab3b6feaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:41:07</sys_created_on>
+            <sys_id>3499658583345a10de9ab3b6feaad308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1441475_aiml_con_ai_devices" sys_domain="global" view="Default view">5f86610183345a10de9ab3b6feaad3ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:41:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>true</header>
+            <name>x_1441475_aiml_con_ai_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-20 17:27:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f86610183345a10de9ab3b6feaad3ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441475_aiml_con_ai_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AIML Construction Tools" source="x_1441475_aiml_con">f65ccbb483341a10de9ab3b6feaad3b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AIML Construction Tools">f65ccbb483341a10de9ab3b6feaad3b0</sys_scope>
+            <sys_update_name>sys_ui_section_5f86610183345a10de9ab3b6feaad3ef</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 17:27:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
